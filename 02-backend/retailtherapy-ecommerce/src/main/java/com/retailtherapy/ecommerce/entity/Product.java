@@ -32,6 +32,8 @@ public class Product {
 
     private String imageUrl;
 
+    private String description;
+
     private BigDecimal unitPrice;
 
     private boolean active;
